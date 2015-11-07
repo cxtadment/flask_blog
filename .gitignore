@@ -1,2 +1,4 @@
 .idea
+foobar-py3
+venv
 *.pyc
